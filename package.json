@@ -1,0 +1,11 @@
+{
+  "name": "tpi-bases-de-datos-ii",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "mongodb": "^6.8.0"
+  }
+}
